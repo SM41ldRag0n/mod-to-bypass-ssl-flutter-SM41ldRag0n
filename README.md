@@ -48,9 +48,9 @@ Setting Match and Replace to Match fake_domain and replace to real_domain
 
 5. Go to fake_domain on phone, to confim use fake_domain
 
-6. Open App and chilllllllllll
+6. Open App and have fun
 
-7. If app check jailbreak, unjailbreak easy and chillllllllllllll
+7. If app check jailbreak, unjailbreak easy and have fun
 
 
 
