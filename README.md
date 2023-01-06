@@ -50,6 +50,8 @@ Setting Match and Replace to Match fake_domain and replace to real_domain
 
 6. Open App and chilllllllllll
 
+7. If app check jailbreak, unjailbreak easy and chillllllllllllll
+
 
 
 If not, read orther post :( Like reflutter or iptables frida
