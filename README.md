@@ -1,8 +1,8 @@
 # mod-to-bypass-ssl-flutter-SM41ldRag0n
-Flutter SSL pinning bypass using mod installed app and iphone
+A other way Flutter SSL pinning bypass
 
 This is a tip to Bypass SSL Pinning for:
-- A Iphone Jailbreak
+- A Iphone Jailbreak or APK
 - A Flutter App Mobile
 - A Api Server accept all request to it (if not, you have to export cert from app)
 - Localtunnel
@@ -21,7 +21,9 @@ Ex: App call https://yourfakedomain.tunnel.com/api => Tunnel service Forward  to
 SSL pinning will protect yourfakedomain and NSAppTransportSecurity will not check hash of yourfakedomain
 
 And this is how to:
-
+With APK
+Apktool d your apk > Find file libapp.so > Edit like app Iphone > resign > install
+With Iphone:
 1. Find where is App installed
 To Jailbreak, you can use Unc0vert or Checkra1n 
 https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html
